@@ -61,6 +61,7 @@ We need a player class which represents our agent, and the player is able to:
 
 ## Results & Analysis:
 In every game attempt, we get the correct tic-tac-toe formation, in a way that the agent wins the game. hence the constraints are satisfied accurately.
+![alt text](results_screenshots/1.jpg)
 
 ## Execution instructions:
 Run the game.py file to run the program.

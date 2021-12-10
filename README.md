@@ -1,4 +1,4 @@
-# Noughts-Crosses-Agents
+# Noughts-and-Crosses-Agents
 
 This is the final submission of the Term Project for Introduction to Artificial Intelligence (DSCI-6612-01) for Fall 2021. The group members of this project are Tulika Kotian and Yashpreet Malhotra.
 

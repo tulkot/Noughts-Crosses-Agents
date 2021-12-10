@@ -3,8 +3,9 @@
 This is the final submission of the **Term Project for Introduction to Artificial Intelligence (DSCI-6612-01)** for Fall 2021. The group members of this project are **Tulika Kotian** and **Yashpreet Malhotra**.
 
 This AI project implements the Noughts & Crosses game (also famously known as the Tic-Tac-Toe) game using different artificial intelligence agents. We have implemented the game using the following four agents with their variations: Minimax agent, Minimax with alpha beta pruning, Expectimax agent, Q learning, and approximate Q learning.
-What is the Noughts & Crosses game?A game in which two players alternately put Xs and Os in a grid of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three X’s or three O’s before the opponent does. 
 
+## What is the Noughts & Crosses game?
+A game in which two players alternately put Xs and Os in a grid of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three X’s or three O’s before the opponent does. 
 The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
 
 ## Objectives of this project:

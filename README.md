@@ -68,7 +68,7 @@ In every game attempt, we get the correct tic-tac-toe formation, in a way that t
 ![alt text](results_screenshots/5.jpg)
 
 ## Execution instructions:
-Run the game.py file to run the program.
+Run the ticTacToe.py file to run the game.
 
 ## Requirements:
 Python 3.8
